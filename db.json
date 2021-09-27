@@ -1,0 +1,36 @@
+{
+	"cursos": [
+		{
+			"id": 1,
+			"title": "React desde cero",
+			"image": "https://edteam-media.s3.amazonaws.com/courses/big/7204fcde-37aa-49a2-a619-63459f834ada.png",
+			"price": 30,
+			"profesor": "Beto Quiroga",
+			"direccion": "#"
+		},
+		{
+			"id": 2,
+			"title": "Go desde cero",
+			"image": "https://edteam-media.s3.amazonaws.com/courses/big/3ec614b5-a9b7-475c-bf8f-8ba643a129eb.png",
+			"price": 25,
+			"profesor": "Alexys Lostrada",
+			"direccion": "#"
+		},
+		{
+			"id": 3,
+			"title": "HTML desde cero",
+			"image": "https://edteam-media.s3.amazonaws.com/courses/big/26557907-0555-427e-a40c-6ff207f98d72.png",
+			"price": 10,
+			"profesor": "Alvaro Felipe",
+			"direccion": "#"
+		},
+		{
+			"id": 4,
+			"title": "Git desde cero",
+			"image": "https://edteam-media.s3.amazonaws.com/courses/big/fd2adf12-10de-40de-b430-4869c03c8229.png",
+			"price": 50,
+			"profesor": "Beto Quiroga",
+			"direccion": "#"
+		}
+	]
+}
